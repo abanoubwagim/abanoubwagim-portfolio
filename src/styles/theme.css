@@ -1,0 +1,50 @@
+
+:root {
+  /* Surface */
+  --color-surface:                    #faf8ff;
+  --color-surface-dim:                #d9d9e5;
+  --color-surface-container-lowest:   #ffffff;
+  --color-surface-container-low:      #f3f3fe;
+  --color-surface-container:          #ededf9;
+  --color-surface-container-high:     #e7e7f3;
+  --color-surface-container-highest:  #e1e2ed;
+
+  /* On-Surface */
+  --color-on-surface:                 #191b23;
+  --color-on-surface-variant:         #434655;
+
+  /* Borders */
+  --color-outline:                    #737686;
+  --color-outline-variant:            #c3c6d7;
+
+  /* Primary */
+  --color-primary:                    #004ac6;
+  --color-on-primary:                 #ffffff;
+  --color-primary-container:          #2563eb;
+  --color-on-primary-fixed-variant:   #003ea8;
+
+  /* Secondary */
+  --color-secondary:                  #006e2f;
+  --color-secondary-container:        #6bff8f;
+
+  /* Tertiary */
+  --color-tertiary:                   #943700;
+  --color-tertiary-container:         #bc4800;
+
+  /* Typography */
+  --font-geist:          'Geist', sans-serif;
+  --font-inter:          'Inter', sans-serif;
+  --font-mono:           'JetBrains Mono', monospace;
+
+  /* Spacing */
+  --spacing-gutter:      24px;
+  --spacing-section-sm:  64px;
+  --spacing-section-lg:  120px;
+  --container-max:       1120px;
+
+  /* Radius */
+  --radius-sm:   0.125rem;
+  --radius-base: 0.25rem;
+  --radius-lg:   0.5rem;
+  --radius-full: 9999px;
+}
