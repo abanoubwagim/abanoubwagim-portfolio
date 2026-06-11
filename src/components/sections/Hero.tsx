@@ -3,7 +3,7 @@ import Badge from '../ui/Badge';
 import Button from '../ui/Button';
 import Container from '../layout/Container';
 import avatarImage from '../../../images/avatar.webp';
-import cvPdf from '../../../cv/Abanoub_Wagim_CV.pdf';
+import cvPdf from '../../../cv/Abanoub_Wagim.pdf';
 
 
 const HERO_TECH_TAGS = ['Java', 'Spring Boot', 'PostgreSQL'];
