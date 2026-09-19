@@ -20,6 +20,6 @@ Backend developer working with Java and Spring Boot. Focused on building REST AP
 
 ## Contact
 
-Email: your-email@example.com  
-LinkedIn: https://linkedin.com/in/yourprofile  
-GitHub: https://github.com/yourusername
+Email: abanoubwagim@gmail.com  
+LinkedIn: https://linkedin.com/in/abanoubwagim  
+GitHub: https://github.com/abanoubwagim
