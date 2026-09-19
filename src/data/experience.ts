@@ -11,7 +11,7 @@ export const experience: ExperienceItem[] = [
 {
 id: 'ministry-backend',
 period: 'Dec 2025 — Feb 2026',
-title: 'Backend Developer',
+title: 'Java Backend Developer',
 company: 'Ministry of Youth & Sports of Egypt',
 description:
 'Worked on real-time backend features for BookFairGo, including implementing a WebSocket/STOMP-based notification system for live event updates. Designed an offline-first data flow using SQLite with periodic synchronization to support users in low-connectivity environments. Improved database performance by identifying and resolving N+1 query issues and reducing inefficient joins. Contributed to authentication flows and resolved production issues related to session handling and validation. Collaborated with frontend and QA teams to define and align API contracts, ensuring consistent integration across services. Also supported live deployment activities and addressed critical backend issues during peak traffic to maintain system stability.',
