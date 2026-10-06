@@ -7,18 +7,35 @@ export interface SkillCategory {
 export const skills: SkillCategory[] = [
   {
     id: 'backend',
-    name: 'Core Backend',
+    name: 'Backend',
     items: [
       'Java',
       'Spring Boot',
+      'Spring MVC',
       'Spring Security',
       'Spring Data JPA',
       'REST APIs',
       'Hibernate',
-      'OAuth2',
+      'Spring Modulith',
       'JWT',
+      'OAuth2',
+      'DTOs',
       'Swagger / OpenAPI',
-    ]
+      'Lombok',
+      'MapStruct',
+    ],
+  },
+
+  {
+    id: 'architecture',
+    name: 'Architecture',
+    items: [
+      'Microservices',
+      'Modular Monolith',
+      'Event-Driven Architecture',
+      'Clean Architecture',
+      'Service Discovery',
+    ],
   },
 
   {
@@ -30,26 +47,17 @@ export const skills: SkillCategory[] = [
       'Redis',
       'SQLite',
       'Flyway',
-    ],
-  },
-
-  {
-    id: 'tools',
-    name: 'Tools',
-    items: [
-      'Git',
-      'GitHub Actions',
-      'Maven',
-      'Docker',
+      'Liquibase',
     ],
   },
 
   {
     id: 'messaging',
-    name: 'Messaging',
+    name: 'Messaging & Real-Time',
     items: [
       'RabbitMQ',
-      'WebSockets',
+      'ActiveMQ Artemis',
+      'WebSocket',
       'STOMP',
     ],
   },
@@ -57,9 +65,24 @@ export const skills: SkillCategory[] = [
     id: 'testing',
     name: 'Testing',
     items: [
-      'JUnit',
+      'JUnit 5',
       'Mockito',
       'Unit Testing',
+    ],
+  },
+
+  {
+    id: 'tools',
+    name: 'DevOps & Tools',
+    items: [
+      'Docker',
+      'Git',
+      'GitHub',
+      'Azure DevOps',
+      'Maven',
+      'Postman',
+      'Apidog',
+      'IntelliJ IDEA',
     ],
   },
 
@@ -68,9 +91,9 @@ export const skills: SkillCategory[] = [
     name: 'Additional',
     items: [
       'Angular',
+      'JavaScript',
       'HTML',
       'CSS',
-      'JavaScript',
       'Bootstrap',
       'Flutter',
     ],

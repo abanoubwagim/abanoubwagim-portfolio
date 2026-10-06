@@ -6,9 +6,9 @@ export interface Leadership {
 }
 
 export const leadership: Leadership = {
-  title: 'Leadership Volunteer',
-  organization: 'Mar-Mina Church Scout Team',
+  title: 'Scout Team Leader',
+  organization: 'St. Mar-Mina Church',
   period: 'Apr 2025 — Present',
   description:
-    'Led and mentored youth groups within a 300+ member scout organization, coordinating events, camps, and educational activities while managing team organisation and collaborative execution.',
+    'Lead Up to 50 member scout team within a 300+ member organization, coordinating teams, delegating responsibilities, resolving team issues, and organizing events, camps, and educational activities. Awarded Best Technical Contributor for technical support and problem-solving. Currently contributing as a Java Backend Developer to a scout management application alongside a frontend team.',
 };

@@ -38,8 +38,8 @@ export const references: Reference[] = [
   {
     id: 'ref-heba-hosney',
     name: 'Heba Hosney Awaad',
-    role: 'Scout Leader',
-    company: 'St. Mina Church',
+    role: 'Head Scout Leader',
+    company: 'St. Mar-Mina Church',
     quote:
       'He showed leadership, responsibility, teamwork, and reliability in community and scouting activities.',
     initials: 'HH',

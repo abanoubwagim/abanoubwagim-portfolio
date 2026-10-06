@@ -1,7 +1,6 @@
 export interface EducationItem {
   id: string;
   degree: string;
-  field: string;
   institution: string;
   location: string;
   period: string;
@@ -12,12 +11,12 @@ export interface EducationItem {
 export const education: EducationItem[] = [
   {
     id: 'bsc-bis',
-    degree: 'Bachelor of Science',
-    field: 'Business Information Systems',
+    degree: 'Bachelor’s in Business Information Systems',
     institution: 'Higher Institute for Specific Studies',
     location: 'Giza, Egypt',
     period: '2022 - 2026',
+    grade: 'GPA: 3.03 / 4.00 (Very Good)',
     highlight:
-      'Focused on backend engineering, software architecture, database systems.',
+      'Focused on software development, backend engineering, database systems, and software architecture.',
   },
 ];

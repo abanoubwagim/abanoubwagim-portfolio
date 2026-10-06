@@ -10,10 +10,10 @@ isCurrent: boolean;
 export const experience: ExperienceItem[] = [
 {
 id: 'algoora-java-intern',
-period: 'Jul 2026 — Oct 2026',
+period: 'Jul 2026 — Sep 2026',
 title: 'Java Backend Developer Intern',
 company: 'Algoora Systems',
-description: 'Contributing to PIMS, a Spring Boot microservices platform for pharmacy inventory and order management. Developed and maintained RESTful APIs and implemented business features based on OpenAPI specifications and existing business workflows. Worked with workflow-driven processes, service-to-service communication, and event-based interactions, while using Netflix Eureka for service discovery and Liquibase for database migrations. Collaborated in an Agile/Scrum environment, participating in code reviews, Git-based workflows, debugging, and feature integration.',
+description: 'Contributed to PIMS, a production Spring Boot microservices platform for pharmacy inventory and order management. Developed and maintained RESTful APIs using Java and Spring Boot, implementing backend features based on OpenAPI specifications and existing business workflows. Worked with Netflix Eureka for service discovery and service-to-service communication, Liquibase for database migrations, and ActiveMQ Artemis for event-driven workflows and service integrations. Debugged existing backend flows, integrated features into the existing codebase, and participated in Agile/Scrum development, code reviews, Git-based workflows, and feature integration.',
 isCurrent: false,
 },
 {
